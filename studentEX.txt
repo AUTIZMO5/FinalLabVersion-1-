@@ -1,0 +1,3 @@
+Sanaa 90 180 true
+Mateen 50 180 false
+Eshan 89 180 false
